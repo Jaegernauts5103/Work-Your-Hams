@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WorkoutsWOE">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="183dp"
+        tools:layout_editor_absoluteY="223dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/text_woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="@string/workoutChoose" />
+
+            <Button
+                android:id="@+id/b1woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Workout 1" />
+
+            <Button
+                android:id="@+id/b2woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+
+            <Button
+                android:id="@+id/b3woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+
+            <Button
+                android:id="@+id/b4woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+
+            <Button
+                android:id="@+id/b5woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+
+            <Button
+                android:id="@+id/b6woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+
+            <Button
+                android:id="@+id/b7woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+
+            <Button
+                android:id="@+id/b8woe"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Example Button" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

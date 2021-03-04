@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Work Your Hams</string>
+    <string name="workoutChoose">Choose Your Workout!</string>
+    <string name="settings">Customize Your App</string>
+    <string name="name">Your Name is: </string>
+    <string name="age">How old are you?</string>
+</resources>
