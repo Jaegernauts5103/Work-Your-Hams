@@ -1,4 +1,4 @@
-package com.workyourhams.startingscreen;
+package com.jaegernauts.workyourhams;
 
 import androidx.appcompat.app.AppCompatActivity;
 

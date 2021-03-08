@@ -13,10 +13,8 @@
         android:id="@+id/imageView9"
         android:layout_width="wrap_content"
         android:layout_height="300dp"
-        android:layout_marginTop="4dp"
         android:src="@drawable/ham_1_lowpoly"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

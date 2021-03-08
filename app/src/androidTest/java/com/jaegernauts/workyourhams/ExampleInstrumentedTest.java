@@ -1,4 +1,4 @@
-package com.workyourhams.startingscreen;
+package com.jaegernauts.workyourhams;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.workyourhams.startingscreen", appContext.getPackageName());
+        assertEquals("com.jaegernauts.workyourhams", appContext.getPackageName());
     }
 }

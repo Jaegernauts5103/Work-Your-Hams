@@ -1,4 +1,4 @@
-package com.workyourhams.startingscreen;
+package com.jaegernauts.workyourhams;
 
 import android.os.Bundle;
 
